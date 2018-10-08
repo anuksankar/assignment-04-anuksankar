@@ -1,0 +1,22 @@
+
+start_station_name,end_station_name,total_trips,total_time,unique_bikes,avg_trips_per_bike,avg_duration_per_bike
+Harry Bridges Plaza (Ferry Building),Embarcadero at Sansome,353,6969.0,234,1.51,30.0
+Market at 10th,San Francisco Caltrain 2 (330 Townsend),328,3246.0,211,1.55,15.0
+2nd at Townsend,Harry Bridges Plaza (Ferry Building),291,2703.0,205,1.42,13.0
+Harry Bridges Plaza (Ferry Building),2nd at Townsend,263,2748.0,178,1.48,15.0
+Embarcadero at Sansome,Steuart at Market,251,1713.0,184,1.36,9.0
+Harry Bridges Plaza (Ferry Building),San Francisco Caltrain (Townsend at 4th),246,3318.0,174,1.41,19.0
+San Francisco Caltrain 2 (330 Townsend),Harry Bridges Plaza (Ferry Building),241,2811.0,168,1.43,17.0
+San Francisco Caltrain (Townsend at 4th),Harry Bridges Plaza (Ferry Building),217,2789.0,153,1.42,18.0
+Embarcadero at Folsom,San Francisco Caltrain (Townsend at 4th),213,2317.0,168,1.27,14.0
+Steuart at Market,2nd at Townsend,208,2120.0,155,1.34,14.0
+Market at Sansome,2nd at South Park,207,1203.0,154,1.34,8.0
+Townsend at 7th,San Francisco Caltrain 2 (330 Townsend),205,776.0,153,1.34,5.0
+2nd at South Park,Market at Sansome,200,1149.0,146,1.37,8.0
+Steuart at Market,San Francisco Caltrain (Townsend at 4th),196,2294.0,149,1.32,15.0
+2nd at Townsend,Market at Sansome,195,1389.0,146,1.34,10.0
+Steuart at Market,Embarcadero at Sansome,195,2593.0,147,1.33,18.0
+San Francisco Caltrain (Townsend at 4th),Embarcadero at Folsom,195,1992.0,154,1.27,13.0
+San Francisco Caltrain 2 (330 Townsend),Townsend at 7th,187,797.0,141,1.33,6.0
+San Francisco Caltrain 2 (330 Townsend),Embarcadero at Folsom,185,1900.0,146,1.27,13.0
+Howard at 2nd,San Francisco Caltrain (Townsend at 4th),180,1538.0,140,1.29,11.0
